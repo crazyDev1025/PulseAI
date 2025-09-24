@@ -11708,7 +11708,7 @@ const eC = () => (
         window.open(n, "_blank");
       },
       t = () => {
-        window.open("https://t.me/PathPulseNews", "_blank");
+        window.open("https://t.me/PulseAI_network", "_blank");
       };
     return u.jsx("div", {
       className: "h-1/2 w-full text-white py-10 border-t-2 border-[#144E40]",
@@ -11741,7 +11741,7 @@ const eC = () => (
                       },
                       {
                         src: "/Telegram.svg",
-                        link: "https://t.me/PathPulseNews",
+                        link: "https://t.me/PulseAI_network",
                       },
                       {
                         src: "/dextools.png",
@@ -11795,7 +11795,7 @@ const eC = () => (
                       onClick: () => bt("coin"),
                       className:
                         "cursor-pointer hover:text-white text-footerColor",
-                      children: "$PULS",
+                      children: "$PULSE",
                     }),
                     u.jsx("p", {
                       onClick: () => bt("home"),
@@ -11936,7 +11936,7 @@ const eC = () => (
                   className:
                     "text-sm font-clash text-white cursor-pointer hover:underline hover:text-[#63B7A2]",
                   onClick: () => bt("coin"),
-                  children: "$PULS",
+                  children: "$PULSE",
                 }),
               ],
             }),
@@ -12100,7 +12100,7 @@ const eC = () => (
                     { name: "Partners", id: "partners" },
                     { name: "Tech", id: "tech" },
                     { name: "Roadmap", id: "roadmap" },
-                    { name: "$PULS", id: "coin" },
+                    { name: "$PULSE", id: "coin" },
                   ].map((c) =>
                     u.jsx(
                       "button",
@@ -19905,25 +19905,25 @@ const Xe = [
       src: "https://res.cloudinary.com/df1awd7vz/image/upload/v1748593223/card1_ovvm2h.svg",
       title: "PulseGen - Our Native LLM",
       desc: "A smart native LLM that watches roads and contextually understands to give helpful insights for your drive.",
-      link: "https://pathpulse-ai.gitbook.io/pathpulse.ai-whitepaper/core-offerings/hardware-components",
+      link: "https://docs.pulseainetwork.org",
     },
     {
       src: "https://res.cloudinary.com/df1awd7vz/image/upload/v1748593223/card2_wl6ict.svg",
       title: "PulseScout",
       desc: "User-friendly platform for real-time metadata collection and rewards for contributors.",
-      link: "https://pathpulse-ai.gitbook.io/pathpulse.ai-whitepaper/core-offerings/pulse-scout-mobile-application",
+      link: "https://docs.pulseainetwork.org",
     },
     {
       src: "https://res.cloudinary.com/df1awd7vz/image/upload/v1748593223/card3_tem4ye.svg",
       title: "PulseNet - In-House Object Detection Architecture",
       desc: "World-class accuracy with just under 1 billion parameters, making it the leanest, most efficient system on the planet.",
-      link: "https://pathpulse-ai.gitbook.io/pathpulse.ai-whitepaper/core-offerings/introducing-pulsenet-advanced-artificial-intelligence",
+      link: "https://docs.pulseainetwork.org",
     },
     {
       src: "https://res.cloudinary.com/df1awd7vz/image/upload/v1748593222/card10_irvrmh.svg",
       title: "P-AXON - AI-Powered DePin for Smarter Mobility",
       desc: "Decentralised physical infrastructure networks, optimised with real-time AI insights.",
-      link: "https://pathpulse-ai.gitbook.io/pathpulse.ai-whitepaper/core-offerings/hardware-components",
+      link: "https://docs.pulseainetwork.org",
     },
   ],
   Tg = (e, t, n) => {
@@ -20203,8 +20203,8 @@ const Xe = [
     }),
   g3 = () => {
     const e = () => {
-      window.open("https://t.me/PathPulseChat", "_blank"),
-        window.open("https://x.com/PathPulse_ai", "_blank");
+      window.open("https://t.me/PulseAI_network", "_blank"),
+        window.open("https://x.com/PulseAI_network", "_blank");
     };
     return u.jsxs("section", {
       id: "home",
@@ -20243,7 +20243,7 @@ const Xe = [
               children: "Enhance Your Maps",
             }),
             u.jsx("button", {
-              onClick: () => window.open("https://app", "_blank"),
+              onClick: () => window.open("https://app.pulseainetwork.org", "_blank"),
               className:
                 "mt-6 px-6 py-1 border border-[#02C39433] shadow-[inset_0px_0px_6px_3px_rgba(2,195,148,0.25)] bg-[rgba(2,195,148,0.40)] font-clash font-medium text-white text-lg rounded-xl transition duration-300 glow-button",
               children: "Get Started",
@@ -20426,7 +20426,7 @@ const Xe = [
         u.jsx("div", {
           className:
             "absolute top-14 lg:top-10 px-4 text-center text-3xl sm:text-4xl md:text-5xl lg:text-6xl text-cyan-100 font-clash",
-          children: "$PULS Point Utility",
+          children: "$PULSE Point Utility",
         }),
         u.jsxs("div", {
           className:
@@ -26906,7 +26906,7 @@ const ZA = (e, t) =>
                         className:
                           "px-5 py-2.5 w-[150px] mt-4 bg-[conic-gradient(from_195deg_at_50.00%_50.00%,_rgba(0,_0,_0,_0)_173deg,_rgba(52.93,_129.62,_115.56,_0.30)_281deg,_rgba(46.75,_140.25,_127.78,_0.12)_360deg)] rounded-xl outline outline-[0.86px] outline-offset-[-0.86px] outline-white/10 inline-flex justify-center items-center gap-1.5",
                         children: u.jsx("a", {
-                          href: "https://pathpulse-ai.gitbook.io/pathpulse.ai-whitepaper/key-potential-paying-customers",
+                          href: "https://docs.pulseainetwork.org",
                           target: "_blank",
                           rel: "noopener noreferrer",
                           className:
@@ -27006,7 +27006,7 @@ const ZA = (e, t) =>
                     className:
                       "px-2 py-1 mx-auto  w-[100px] mt-4 bg-[conic-gradient(from_195deg_at_50.00%_50.00%,_rgba(0,_0,_0,_0)_173deg,_rgba(52.93,_129.62,_115.56,_0.30)_281deg,_rgba(46.75,_140.25,_127.78,_0.12)_360deg)] rounded-xl outline outline-[0.86px] outline-offset-[-0.86px] outline-white/10 flex justify-center items-center gap-1.5 lg:hidden",
                     children: u.jsx("a", {
-                      href: "https://pathpulse-ai.gitbook.io/pathpulse.ai-whitepaper/key-potential-paying-customers",
+                      href: "https://docs.pulseainetwork.org",
                       target: "_blank",
                       rel: "noopener noreferrer",
                       className:
@@ -27848,7 +27848,7 @@ const Fy = ({ type: e = "organization" }) => {
   cR = ({ onClose: e }) => {
     const [t, n] = b.useState(""),
       r = () => {
-        window.open("https://t.me/PathPulseNews", "_blank");
+        window.open("https://t.me/PulseAI_network", "_blank");
       },
       i = async (s) => {
         s.preventDefault(), n("Sending...");
@@ -32131,7 +32131,7 @@ const V5 = () => {
                     }),
                   }),
                   u.jsx("a", {
-                    href: "https://pathpulse-ai.gitbook.io/pathpulse.ai-whitepaper/core-offerings/pulsegen",
+                    href: "https://docs.pulseainetwork.org",
                     target: "_blank",
                     rel: "noopener noreferrer",
                     className:
