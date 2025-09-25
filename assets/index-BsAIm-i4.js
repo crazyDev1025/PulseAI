@@ -11745,11 +11745,11 @@ const eC = () => (
                       },
                       {
                         src: "/dextools.png",
-                        link: "https://www.dextools.io/app/en/ether/pair-explorer/0xcomingsoon",
+                        link: "https://www.dextools.io/app/en/ether/pair-explorer/0x8297201ee09f1f7d608123317ecc4785942d1932",
                       },
                       {
                         src: "/dexscreener.png",
-                        link: "https://dexscreener.com/ethereum/0xcomingsoon",
+                        link: "https://dexscreener.com/ethereum/0x8297201ee09f1f7d608123317ecc4785942d1932",
                       },
                     ].map((n, r) =>
                       u.jsx(
@@ -11984,7 +11984,7 @@ const eC = () => (
               ],
             }),
             u.jsxs("div", {
-              onClick: () => window.open("https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0xcomingsoon", "_blank"),
+              onClick: () => window.open("https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0x8297201ee09f1f7d608123317ecc4785942d1932", "_blank"),
               className:
                 "px-2.5 py-1.5 bg-[conic-gradient(from_195deg_at_50.00%_50.00%,_rgba(0,_0,_0,_0)_173deg,_#093728_281deg,_rgba(9,_55,_40,_0.40)_360deg)] cursor-pointer rounded-full border-t border-l border-r border-t-teal-700 border-l-teal-700 border-r-teal-700 inline-flex justify-center items-center gap-2",
               children: [
@@ -12157,7 +12157,7 @@ const eC = () => (
                     ],
                   }),
                   u.jsxs("div", {
-                    onClick: () => window.open("https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0xcomingsoon", "_blank"),
+                    onClick: () => window.open("https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0x8297201ee09f1f7d608123317ecc4785942d1932", "_blank"),
                     className:
                       "px-5 py-2.5 h-9 bg-[conic-gradient(from_195deg_at_50.00%_50.00%,_rgba(0,_0,_0,_0)_173deg,_#093728_281deg,_rgba(9,_55,_40,_0.40)_360deg)] rounded-md border border-teal-700 inline-flex justify-center items-center gap-4 cursor-pointer",
                     children: [
@@ -20035,7 +20035,7 @@ const Xe = [
               children: "What are we building ?",
             }),
             u.jsx("a", {
-              href: "https://www.dextools.io/app/en/ether/pair-explorer/0xcomingsoon",
+              href: "https://www.dextools.io/app/en/ether/pair-explorer/0x8297201ee09f1f7d608123317ecc4785942d1932",
               target: "_blank",
               rel: "noopener noreferrer",
               children: u.jsxs("button", {
@@ -20045,7 +20045,7 @@ const Xe = [
                   u.jsx("span", {
                     className:
                       "text-stone-900 text-sm md:text-base font-medium",
-                    children: "0xcomingsoon",
+                    children: "0x8297201ee09f1f7d608123317ecc4785942d1932",
                   }),
                   u.jsx("img", {
                     src: "/Button Icon.svg",
